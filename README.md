@@ -6,6 +6,8 @@
 
 ## Create a simple calculater with using HTML, CSS, JAVASCRIPT or REACT
 
+URL: https://santosh-kapari.github.io/LGMTask3.github.io/
+
 @ screenshots
 
 ![2022-02-11 (22)](https://user-images.githubusercontent.com/71519354/153556817-c1980ec5-4422-4710-99cb-513f19a09039.png)
