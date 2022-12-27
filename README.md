@@ -6,9 +6,9 @@
 
 ## Create a simple calculater with using HTML, CSS, JAVASCRIPT or REACT
 
-URL: https://santosh-kapari.github.io/LGMTask4.github.io/
+### URL: https://santosh-kapari.github.io/LGMTask4.github.io/
 
-@ screenshots
+#### @ screenshots
 
 ![2022-02-11 (22)](https://user-images.githubusercontent.com/71519354/153556817-c1980ec5-4422-4710-99cb-513f19a09039.png)
 ![2022-02-11 (23)](https://user-images.githubusercontent.com/71519354/153556822-92cdd939-3047-4489-8790-9b55c4c367b7.png)
